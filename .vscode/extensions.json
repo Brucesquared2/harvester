@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "golang.Go",
+    "rust-lang.rust-analyzer",
+    "ms-python.python",
+    "ms-vscode-remote.remote-ssh"
+  ]
+}
